@@ -1,0 +1,15 @@
+certifi==2021.10.8
+click==8.0.3
+colorama==0.4.4
+Flask==2.0.2
+itsdangerous==2.0.1
+Jinja2==3.0.3
+MarkupSafe==2.0.1
+numpy==1.18.5
+Pillow==8.0.0
+scipy==1.5.0
+torch==1.8.0
+torchvision==0.9.0
+typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1631814937681/work
+Werkzeug==2.0.3
+wincertstore==0.2

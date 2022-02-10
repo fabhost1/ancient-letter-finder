@@ -1,0 +1,3 @@
+https://github.com/ganeshmm/TamilNet.git
+
+find dataset inside data folder in this github repo
